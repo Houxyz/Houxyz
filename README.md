@@ -12,6 +12,17 @@ Mi objetivo principal es aplicar mis conocimientos en logística y desarrollo de
 
 ---
 
+---
+
+### 📊 **Mis Estadísticas en GitHub**
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Houxyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houxyz&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
 ## 🛠️ Mi Tech Stack
 
 Estas son las tecnologías con las que estoy construyendo soluciones actualmente:
