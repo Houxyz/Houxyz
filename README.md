@@ -1,4 +1,4 @@
-# ¡Hola! Soy Houxyz (Joel Collantes) 👋
+# ¡Hola! Soy Houxyz!
 
 ### Creando lo que mi imaginación dicta para resolver los problemas del mundo real.
 
