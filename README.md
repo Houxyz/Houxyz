@@ -1,4 +1,4 @@
-# ¡Hola! Soy Houxyz!
+# ¡Hola! Soy Houxyz.
 
 ### Creando lo que mi imaginación dicta para resolver los problemas del mundo real.
 
@@ -12,7 +12,7 @@ Mi objetivo principal es aplicar mis conocimientos en logística y desarrollo de
 
 ---
 
-## 🛠️ Mi Caja de Herramientas (Tech Stack)
+## 🛠️ Mi Tech Stack
 
 Estas son las tecnologías con las que estoy construyendo soluciones actualmente:
 
@@ -33,7 +33,7 @@ Estas son las tecnologías con las que estoy construyendo soluciones actualmente
 
 ## 🎯 Mi Misión
 
-* **Desarrollar herramientas** que optimicen la toma de decisiones en la cadena de suministro.
+* **Desarrollar herramientas** que optimicen la toma de decisiones en el mundo de la Logistica y mis hobbys.
 * **Automatizar procesos** logísticos para reducir errores y aumentar la eficiencia.
 * **Analizar datos** para predecir tendencias y encontrar cuellos de botella antes de que ocurran.
 
