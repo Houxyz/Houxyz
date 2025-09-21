@@ -12,7 +12,6 @@ Mi objetivo principal es aplicar mis conocimientos en logística y desarrollo de
 
 ---
 
----
 
 ### 📊 **Mis Estadísticas en GitHub**
 
